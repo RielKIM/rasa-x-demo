@@ -72,3 +72,8 @@
 - extremly sad
 - so saad
 - so sad
+
+## intent:nice_to_see_you
+- nice to meet you
+- I'm glad to see you
+- It's good to see you
